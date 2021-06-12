@@ -1,8 +1,7 @@
 title: Jaeden Ng # your name (or website title) here
 logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  A technologist and creative person who has very keen interest in the interactive marketing and advertising in the digital space. 
-<br><br>
+description: # your text below (remove <br> elements if you don't need line breaks)
+A technologist and creative person who has very keen interest in the interactive marketing and advertising in the digital space. <br><br>
 I am currently interested data science, user experience design, experience research & social media marketing.
 <br><br>
 Some of my hobbies includes photography, arts & design, gaming.
