@@ -1,10 +1,13 @@
 title: Jaeden Ng # your name (or website title) here
 logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-> A technologist and creative person who has very keen interest in data science, user experience design, experience research and social media marketing.
-<br><br>
+  A technologist and creative person who has very keen interest in data science, user experience design, experience research and social media marketing.
+  <br><br>
+  Second description 
+  <br><br>
   <a href="https://www.linkedin.com/in/jindeng/" target="_blank">View My LinkedIn Profile</a>
   <br>
   <a href="mailto:jindesignart@hotmail.com">Email Me</a>
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
