@@ -19,6 +19,5 @@ For Hiring and Retaining Employee](/pdf/CAPTONE-3-JAEDEN-NG.pdf)
 ---
 [NBA Win Prediction](/pdf/CAPTONE-4-JAEDEN-NG.pdf)
 <img src="images/thumb-cap4.png?raw=true"/>
----
 
 <!-- Remove above link if you don't want to attibute -->
