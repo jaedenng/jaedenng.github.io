@@ -4,8 +4,8 @@
 
 ### Capstone Project 
 
-[Michelin Star Restaurant](/pdf/CAPTONE-1-JAEDEN-NG.pdf)
-<img src="images/thumb-cap1.png?raw=true"/>
+[Michelin Star Restaurant]
+<img src="images/thumb-cap1.png?raw=true"/>(/pdf/CAPTONE-1-JAEDEN-NG.pdf)
 
 ---
 [Healthy Diet and Covid-19 Immunity](/pdf/CAPTONE-2-JAEDEN-NG.pdf)
