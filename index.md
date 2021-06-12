@@ -2,37 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Capstone Project 
 
-[Project 1 Title](/sample_page)
+[Michelin Star Restaurant](/pdf/CAPTONE-1-JAEDEN-NG.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Healthy Diet and Covid-19 Immunity](/pdf/CAPTONE-2-JAEDEN-NG.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Human Resource Analysis
+For Hiring and Retaining Employee](/pdf/CAPTONE-3-JAEDEN-NG.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Title](http://example.com/)
+[NBA Win Prediction](/pdf/CAPTONE-4-JAEDEN-NG.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
 <!-- Remove above link if you don't want to attibute -->
