@@ -17,32 +17,32 @@ div { position:relative }
 
 
 html{-webkit-font-smoothing:antialiased;}
-body{background:#f5f5f5 url("../images/bkg-pat.png") repeat scroll 0 0;font: 12px/1.5em Arial, Helvetica, sans-serif, "Arial Narrow";color:#a5a5a5;}
+body{background:#f5f5f5 url("../images/bkg-pat.png") repeat scroll 0 0;font: 12px/1.5em Arial, Helvetica, sans-serif, "Arial Narrow";color:#575454;}
 a{color:#2e46b1;text-decoration:none;}
 a:hover{color:#4da9e6; text-decoration:underline;}
 .column-clear{ clear:both;}
 .wrapper{ margin:0px auto; padding:0px;width:1080px;}
-.portfolio-content, .portfolio-area{width:1080px;}
-.title-page{font-size:40px;margin:50px 0px 60px 0px;color:#151515;}
+.portfolio-content{width:1080px;}
+.portfolio-area{width:75%; height: auto!important;}
+.title-page{font-size:40px; margin:30px 0px 80px 0px; color:#151515;}
 .goto{float:right;width:130px;margin:-80px 30px 0px 0px;}
-.contactr{float:right;width:350px;margin:-40px 30px 0px 0px; text-align: right;}
-.header-info{float:left;width:400px;margin: -40px 0px 0px 30px;}
-.top-info {
-	float: right;
-	position: absolute;
-	top: -1px;
-	right: 0;
-	width: 200px;
-	text-align: right;
-	margin: 0px 30px 0px 0px;
-}
+.contactr{float:right;width:300px;margin:-40px 30px 0px 0px; text-align: right;}
+.header-info{float:left;width:auto;margin: -60px 0px 0px 0px; font-style: italic;}
+.top-info { float: right; position: absolute; top: -1px; right: 0; width: 200px; text-align: right; margin: 0px 0px 30px 0px;}
+
+
+.wrapper-left{width: 280px; display: block; float: left; position: fixed; top: 30px;}
+.wrapper-right{width: 100%;  display: block; float: left; left: 300px; position: relative; top: 30px;}
+
+.profile-intro{display: block; float: left; width: 100%;}
+.profile-desc{display: block; float: left;  margin: 0px 30px 30px 0px;  width: 280px;}
 
 /**** PORTFOLIO STYLES*****/
-.portfolio-categ{margin-bottom:30px;}
-.portfolio-categ li{display:inline;margin-right:10px;}
+.portfolio-categ{margin:10px 0 20px 0;}
+.portfolio-categ li{display:inline;margin-right:10px; font-size: 1.02em; font-weight: bold;}
 .image-block{ display:block;position: relative;}
 .image-block img{border: 1px solid #d5d5d5; border-radius: 10px;background:#FFFFFF;padding:10px;}
-.image-block img:hover{border: 1px solid #A9CF54;box-shadow:0 0 5px #A9CF54;}
+.image-block img:hover{border: 1px solid #fd7403;box-shadow:0 0 5px #A9CF54;}
 .portfolio-area li{float: left;margin: 0 12px 20px 0;overflow: hidden;width: 245px;padding:5px; height: 265px;}
 .home-portfolio-text{margin-top:10px; text-align:center;}
 li.active a{ text-decoration:underline;}
