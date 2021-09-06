@@ -2,19 +2,17 @@ title: Jaeden Ng # your name (or website title) here
 logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    A technologist and creative person who has very keen interest in data science, user experience design, experience research and social media marketing.
-            <br><br>
-            Some of my hobbies includes DIY stuffs, problem solving,  photography, gaming. 
-            <br><br>
-            <b>Connect with me:</b><br>
-            <a href="mailto:jaeden.ng@hotmail.com"><img src="images/email-icon.png" alt="jaeden.ng@hotmail.com" width="50"></a>
-            <a href="https://www.linkedin.com/in/jindeng/" target="_blank"><img src="images/linkedin-icon.png" alt="Linkedin" width="50"></a>
-            <br>
-            <b>Skills/Knowledge:</b> Experience Design, Data Analysis, Data Visualisation, User Research, Prototyping, Wire-framing, Story-Boarding, Annotation, Usability Testing, Information Architect, User Flows, Project Management, Web Programming
-            <br><br>
-            <b>Code:</b> HTML5, CSS3, Ajax, JavaScript, JQuery, ASP, Java, SQL, Python.
-            <br><br>
-            <b>Software:</b> Tableau, PowerBI, Excel, Axure, InVision, Sketch, Figma, Adobe XD, Omnigraffle, Photoshop, Lightroom, PremierePro, Illustrator, Flash, Dreamweaver, InDesign, 3D Studio Max
-        
-  
+   <br><br>
+   <b>Connect with me:</b><br>
+   <a href="mailto:jaeden.ng@hotmail.com"><img src="images/email-icon.png" alt="jaeden.ng@hotmail.com" width="50"></a>
+   <a href="https://www.linkedin.com/in/jindeng/" target="_blank"><img src="images/linkedin-icon.png" alt="Linkedin" width="50"></a>
+   <br><br>
+   <b>Skills/Knowledge:</b> Experience Design, Data Analysis, Data Visualisation, User Research, Prototyping, Wire-framing, Story-Boarding, Annotation, Usability Testing, Information Architect, User Flows, Project Management, Web Programming
+   <br><br>
+   <b>Code:</b> HTML5, CSS3, Ajax, JavaScript, JQuery, ASP, Java, SQL, Python.
+   <br><br>
+   <b>Software:</b> Tableau, PowerBI, Excel, Axure, InVision, Sketch, Figma, Adobe XD, Omnigraffle, Photoshop, Lightroom, PremierePro, Illustrator, Flash, Dreamweaver, InDesign, 3D Studio Max
+
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
