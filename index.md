@@ -3,7 +3,7 @@
 ---
 ### Michelin Star Restaurant<br>
 <a href="/pdf/CAPSTONE-1-JAEDEN-NG.pdf"><img src="images/thumb-cap1.png?raw=true"/></a><br>
-Data analysis to explore new markets. Data cleaning, create interactive dashboards and data storytelling with Excel.
+Data analysis to explore new markets. Data cleaning, create interactive dashboards and data storytelling with Excel.<br>
 [>>DOWNLOAD PDF PRESENTATION](/pdf/CAPSTONE-1-JAEDEN-NG.pdf)
 
 ---
