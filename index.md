@@ -1,9 +1,9 @@
 ## Data Science Projects
 
 ---
-
-[Michelin Star Restaurant](/pdf/CAPSTONE-1-JAEDEN-NG.pdf)
-TEST
+### Michelin Star Restaurant<br>
+Data Cleaning with SQL, Exploratory Data Analysis with Machine Learning Models in Python. Mainly use only Linear Regression Modelling for predictive analysis. Validation using Mean Square Error, F1-Score and accuracy test.<br>
+[DOWNLOAD PDF PRESENTATION](/pdf/CAPSTONE-1-JAEDEN-NG.pdf)
 <a href="/pdf/CAPSTONE-1-JAEDEN-NG.pdf"><img src="images/thumb-cap1.png?raw=true"/></a>
 
 ---
