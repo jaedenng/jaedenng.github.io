@@ -1,8 +1,6 @@
-## Data Analytics Portfolio
+## Data Science Projects
 
 ---
-
-### Capstone Project 
 
 [Michelin Star Restaurant](/pdf/CAPSTONE-1-JAEDEN-NG.pdf)
 <a href="/pdf/CAPSTONE-1-JAEDEN-NG.pdf"><img src="images/thumb-cap1.png?raw=true"/></a>
