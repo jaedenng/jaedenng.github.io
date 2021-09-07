@@ -35,6 +35,7 @@ a:hover{color:#4da9e6; text-decoration:underline;}
 .wrapper-right{width: auto; position: relative; left: 320px;}
 
 .profile-intro, .profile-desc{display: block; float: left; }
+.hd-connect{margin-bottom: 5px; display: inline-block;}
 
 /**** PORTFOLIO STYLES*****/
 .portfolio-categ{margin:10px 0 20px 0;}
@@ -48,29 +49,45 @@ li.active a{ text-decoration:underline;}
 /**** END PORTFOLIO STYLES*****/
 
 @media only screen and (max-width: 1380px) {
-    .wrapper{ width:1080px;}
+    .wrapper, .portfolio-content{ width:1080px;}
     .wrapper-right {left: 320px; width: 810px;}
         
   }
 
 @media only screen and (max-width: 1080px) {
-    .wrapper{ width:835px;}
+    .wrapper, .portfolio-content{ width:835px;}
     .wrapper-left {margin: 0 10px; width: 280px;}
     .wrapper-right {left: 300px; width: 535px;}
     .header-info {margin-bottom: 5px;}
 }
 
 @media only screen and (max-width: 768px) {
-    .wrapper, .wrapper-left, .wrapper-right{ width:535px;}
+    .portfolio-content, .wrapper, .wrapper-left, .wrapper-right{ width:535px;}
     .wrapper-left { position: relative;}
     .wrapper-right { padding: 10px; left: 0px; margin: 20px auto;}
     .profile-pic {width: 100px; float: left; margin: 0 20px 20px 0;}
+   
     .profile-desc, .portfolio-categ {font-size: 1.2em;}
     .post-title-portfolio {font-size: 1.3em;}
     .top-info {width: auto; position: relative; float: none; text-align: center; margin: 0 auto;}
 }
 
 @media only screen and (max-width: 550px) {
-    .wrapper, .wrapper-left, .wrapper-right{ top: 0; width:320px; padding: 5px; margin: 0 10px}
-    .profile-pic {display: none;}
+    .wrapper, .portfolio-content{ width:480px;}
+    .wrapper-left, .wrapper-right {width:460px; margin: 0 auto; display: inline-block;} 
+    .wrapper, .wrapper-left, .wrapper-right{ top: 0;  padding: 10px; margin: 10px auto; float: none; }
+    .profile-pic {display: none;} 
+    .profile-connect {text-align: center;}
+    .title-page, .header-info {text-align: center; float: none;}
+    .header-info {margin-bottom: 20px;}
+    .wrapper-right h2 {text-align: center;}
+    .portfolio-categ li {display: block; float:none; text-align:center; width: 100%; padding: 5px 0;border-bottom: 1px dotted #a5a3a3;}
+    .portfolio-area {display: block; float: none; margin: 20px auto; width: 320px;}
+    .portfolio-area img{width: 280px;height: 215px;}
+    .portfolio-area li {width: 300px; height: auto; margin: 5px auto;}
+}
+
+@media only screen and (max-width: 480px) {
+    .portfolio-content, .wrapper, .wrapper-left, .wrapper-right {width:320px;}
+
 }
