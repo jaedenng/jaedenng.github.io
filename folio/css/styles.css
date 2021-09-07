@@ -47,13 +47,13 @@ a:hover{color:#4da9e6; text-decoration:underline;}
 li.active a{ text-decoration:underline;}
 /**** END PORTFOLIO STYLES*****/
 
-@media only screen and (max-width: 1366px) {
+@media only screen and (max-width: 1380px) {
     .wrapper{ width:1100px;}
     .wrapper-right {left: 320px; width: 810px;}
         
   }
 
-@media only screen and (max-width: 1105px) {
+@media only screen and (max-width: 1080px) {
     .wrapper{ width:815px;}
     .wrapper-left {margin: 0 10px; width: 280px;}
     .wrapper-right {left: 300px; width: 535px;}
