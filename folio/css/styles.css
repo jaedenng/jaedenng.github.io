@@ -31,7 +31,7 @@ a:hover{color:#4da9e6; text-decoration:underline;}
 .top-info { float: right; position: absolute; top: -1px; right: 0; width: auto; text-align: right; margin: 0px 0px 30px 0px;}
 
 .wrapper-left, .wrapper-right {display: block; float: left;top: 30px;}
-.wrapper-left{width: 300px; position: fixed; margin: 0 10px;}
+.wrapper-left{width: 300px; position: absolute; margin: 0 10px;}
 .wrapper-right{width: auto; position: relative; left: 320px;}
 
 .profile-intro, .profile-desc{display: block; float: left; }
