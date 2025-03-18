@@ -3,10 +3,10 @@ logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    A technologist and creative person who has very keen interest in data science, user experience design, experience research and social media marketing.
    <br><br>
-   <b>Connect with me:</b><br>
-   <a href="mailto:jaeden.ng@hotmail.com" title="jaeden.ng@hotmail.com"><img src="images/email-icon.png" alt="jaeden.ng@hotmail.com" width="50"></a>
-   <a href="https://www.linkedin.com/in/jindeng/" target="_blank" title="www.linkedin.com/in/jindeng"><img src="images/linkedin-icon.png" alt="Linkedin" width="50"></a>
-   <br><br>
+   <!--<b>Connect with me:</b><br>
+   <a href="mailto:jaeden[tada].ng@hotmail.com" title="jaeden[tada].ng@hotmail.com"><img src="images/email-icon.png" alt="jaeden[tada].ng@hotmail.com" width="50"></a>
+   <a href="https://www.linkedin.com/in/jinde[tada]ng/" target="_blank" title="www.linkedin.com/in/jinde[tada]ng"><img src="images/linkedin-icon.png" alt="Linkedin" width="50"></a>
+   --><br><br>
    <b>Skills/Knowledge:</b> Experience Design, Data Analysis, Data Visualisation, User Research, Prototyping, Wire-framing, Story-Boarding, Annotation, Usability Testing, Information Architect, User Flows, Project Management, Web Programming
    <br><br>
    <b>Code:</b> HTML5, CSS3, Ajax, JavaScript, JQuery, ASP, Java, SQL, Python.
